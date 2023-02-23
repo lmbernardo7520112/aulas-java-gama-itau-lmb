@@ -1,6 +1,6 @@
-package aula01JavaGamaItau.exercicios;
-import java.util.Scanner;
+package exercicios;
 
+import java.util.Scanner;
 public class Exercicio01 {
 	
     

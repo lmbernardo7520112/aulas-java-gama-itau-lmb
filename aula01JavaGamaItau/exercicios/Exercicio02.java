@@ -1,4 +1,5 @@
-package aula01JavaGamaItau.exercicios;
+package exercicios;
+
 import java.util.Scanner;
 
 public class Exercicio02 {

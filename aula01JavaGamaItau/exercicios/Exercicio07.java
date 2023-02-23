@@ -1,4 +1,5 @@
-package aula01JavaGamaItau.exercicios;
+package exercicios;
+
 
 public class Exercicio07 {
     public static void main(String[] args) {
