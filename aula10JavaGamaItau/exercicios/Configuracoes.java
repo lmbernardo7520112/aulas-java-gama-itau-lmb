@@ -7,10 +7,6 @@ import java.io.FileWriter;
 
 public class Configuracoes {
 
-    
-        
-    
-
     private String nomePerfil;
     private String modoExibicao;
     private String padraoIdioma;
