@@ -1,5 +1,7 @@
 package br.gama.itau.spring02.repository;
 
-public interface ProfessorRepo {
+import org.springframework.data.repository.CrudRepository;
+import br.gama.itau.spring02.model.Professor;
+public interface ProfessorRepo extends CrudRepository<Professor, Long> {
     
 }
